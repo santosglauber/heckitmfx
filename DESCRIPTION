@@ -1,5 +1,5 @@
 Package: heckitmfx
-Title: Marginal Effects for Two-Step Sample Selection Models (Heckit) with Outcome Variable
+Title: Marginal Effects for Two-Step Sample Selection Models (Heckit)
 Version: 0.0.0.9000
 Authors@R: 
     person("Glauber", "Santos", , "glauber.santos@usp.br", role = c("aut", "cre"),
